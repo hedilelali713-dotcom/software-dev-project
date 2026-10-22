@@ -19,3 +19,14 @@ I'll also talk about why we shouldn't completely depend on AI when programming.
 •⁠  ⁠GitHub Copilot: https://github.com/features/copilot
 •⁠  ⁠Cursor: https://cursor.com/
 •⁠  ⁠Stack Overflow Developer Survey: https://survey.stackoverflow.co/
+
+## Research finding
+
+The 2025 Stack Overflow Developer Survey found that more developers distrust the accuracy of AI tools than trust it. Around 46% of respondents said they distrust AI-generated results.
+
+I think this is important because even though AI tools like GitHub Copilot and Cursor can help with coding, developers still need to check the code and test it themselves.
+
+This shows that AI can be helpful, but it isn't something programmers should completely rely on.
+
+Source:
+https://survey.stackoverflow.co/2025/ai
