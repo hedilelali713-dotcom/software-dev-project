@@ -16,3 +16,12 @@ I also want to mention that AI can help with coding, but it doesn't mean develop
 
 - Stack Overflow Developer Survey: https://survey.stackoverflow.co/
 - GitHub Copilot: https://github.com/features/copilot
+
+## Research finding
+
+The 2025 Stack Overflow Developer Survey reported that 84% of respondents were using or planning to use AI tools in their development process.
+
+I think this is useful for our introduction because it shows how common AI tools have become among developers.
+
+Source:
+https://survey.stackoverflow.co/2025/ai
