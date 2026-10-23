@@ -11,7 +11,12 @@ Software Development Current Events Group Project
 Our project is about how AI is changing software development and whether it could replace software developers in the future.
 
 ## YouTube Presentation
-Video link will be added once our presentation is uploaded.
+## Group Video Presentation
+
+**Topic:** Will AI Replace Software Developers?
+
+Watch our group presentation here:
+https://youtu.be/GEnKG0xHQO4
 
 ## Team Responsibilities
 - Partner 1: Research, introduction, and README
